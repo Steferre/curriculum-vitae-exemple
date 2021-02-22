@@ -1,0 +1,11 @@
+header {
+    background-color: lightgray;
+}
+.section-title {
+    color: gold;
+    text-align: center;
+}
+
+.item {
+    background-color: aqua;
+}
