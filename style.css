@@ -1,5 +1,10 @@
+body {
+    width: 50%;
+}
+
 header {
     background-color: lightgray;
+    border-bottom: green 10px solid;
 }
 .section-title {
     color: gold;
@@ -8,4 +13,8 @@ header {
 
 .item {
     background-color: aqua;
+}
+
+#title {
+    text-align: center;
 }
