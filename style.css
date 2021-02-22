@@ -1,10 +1,11 @@
 body {
     width: 50%;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 header {
     background-color: lightgray;
-    border-bottom: green 10px solid;
+    border-bottom: #87b485b0 10px solid;
 }
 .section-title {
     color: gold;
@@ -13,8 +14,15 @@ header {
 
 .item {
     background-color: aqua;
+    color: #0000ff;
 }
 
 #title {
     text-align: center;
+}
+
+p {
+    font-size: 10px;
+    text-decoration: underline;
+    color: #000000;
 }
